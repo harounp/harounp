@@ -3,6 +3,9 @@
 <h3 align="center"> I'm Pierre :nerd_face: </h3>
 <p padding="10px"> From the Toronto area, I'm a nerd with a passion for learning, whether about tech or humans. I'm a designer, planner, problem solver and critical thinker (aka an engineer)!</p> 
 
+<br/>
+<br/>
+
 <h2 align="center"> About Me </h2>
 <img width="55%" align="right" src="https://cdn.pixabay.com/photo/2019/07/25/17/09/camp-4363073_960_720.png" />
 
